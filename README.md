@@ -1,4 +1,4 @@
-# SusDetector: AI Smart Home Security System
+# 🏠🛡️ SusDetector: AI Smart Home Security System
 
 ## Overview
 
