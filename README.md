@@ -181,9 +181,9 @@ Notable experts studied:
 ## Team Members
 
 - Caleb Choi
-- Noah V.
-- Tien V.
-- Tanuj K.
+- Noah Vivo
+- Tien Vuong
+- Tanuj Kancharla
 
 ---
 
